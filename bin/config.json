@@ -1,0 +1,14 @@
+{
+  "ips": {
+    "clock" : "192.168.1.250",
+    "controller": "192.168.1.185"
+  },
+  "ports": {
+    "clock": 12345
+  },
+  "wunder":{
+    "id": "58a2538d72198ee701dd",
+    "secret": "d7c8022b85d6acac0928d09f28dd3c52be5a834d3056cc02f33dea02ee4f",
+    "access_token": "ccbbd1f334b31f538c2f5a991627ea247f35ce363a730b7a575d5b24e772"
+  }
+}
